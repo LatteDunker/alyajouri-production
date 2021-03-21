@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{pLsx:function(e,t,n){e.exports=n.p+"static/bruh-07e582fdd1893c93319c2b43380f5308.png"},w2l6:function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),c=n.n(a),r=n("Bl7J"),l=n("vrFN"),o=n("pLsx"),u=n.n(o);t.default=function(){return c.a.createElement(r.a,null,c.a.createElement(l.a,{title:"404: Not found"}),c.a.createElement("h1",null,"404: Not Found"),c.a.createElement("img",{src:u.a}))}}}]);
+//# sourceMappingURL=component---src-pages-404-js-59122341d5f0f324949c.js.map
